@@ -1,0 +1,30 @@
+{
+    "employeeData": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "department": "Marketing",
+        "role": "Employee",
+        "tasks": [
+          { "taskId": 101, "task": "Complete the monthly report", "status": "In Progress" },
+          { "taskId": 102, "task": "Client follow-up", "status": "Pending" }
+        ],
+        "attendance": ["2024-11-01", "2024-11-02", "2024-11-05"],
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "department": "Finance",
+        "role": "Manager",
+        "tasks": [
+          { "taskId": 201, "task": "Approve budget", "status": "Completed" },
+          { "taskId": 202, "task": "Team meeting", "status": "Scheduled" }
+        ],
+        "attendance": ["2024-11-01", "2024-11-03", "2024-11-06"],
+        "email": "jane.smith@example.com"
+      }
+    ]
+  }
+  
+  

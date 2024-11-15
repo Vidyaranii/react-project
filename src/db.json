@@ -1,0 +1,23 @@
+{
+    "employeeData":[
+      {
+        "id": 1,
+        "name": "John Doe",
+        "role": "Employee",
+        "tasks": ["Complete report", "Update project plan"],
+        "attendance": [],
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "role": "Manager",
+        "tasks": [],
+        "attendance": [],
+        "email": "jane.smith@example.com"
+      }
+    ]
+    
+}
+
+  
